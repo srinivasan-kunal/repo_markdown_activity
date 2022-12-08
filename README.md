@@ -7,11 +7,11 @@ Welcome to the FinTech Repository of my FinTech projects. Feel free to explore.
 ---
 Triple hyphens helps add these lines you see above the text you are reading
 
-*By enclosing a text between a pair of single asterisk I can italisize the text*
+*By enclosing a text between a pair of single asterisk we can italisize the text*
 
-**By enclosing a text between a pair of double asterisk I can make the text bold**
+**By enclosing a text between a pair of double asterisk we can make the text bold**
 
-A `print` (displayed as such by enclosing the word between a pair of back ticks) function in Python displays the text or variable passed in the function as output:
+A `print`  function in Python displays the text or variable passed in the function as output (the word print is displayed as such by enclosing the word between a pair of back ticks):
 
 The code block below was created by opening the code with "three backticks `python`" and ending the code block with "three backticks". The use of the word `python` above aides the color coding of the code block for easy reading. The code block can be created even without the word `python`
 
@@ -31,4 +31,3 @@ For creating the hyperlinks below we use the format "[text](destination location
 For the image inserted below we use the syntax ![text/alt text](url). The URL needs to be a location within the repository along with the file name. 'text/alt text' seems to be a description of the image which is not expected to show up on the markdown preview ***(I am unsure about this)***.
 
 ![Three circular icons that represent a phone, the python logo, and money.](images/fintech.png)
-
