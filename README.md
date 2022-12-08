@@ -13,7 +13,7 @@ Triple hyphens helps add these lines you see above the text you are reading
 
 A `print`  function in Python displays the text or variable passed in the function as output (the word print is displayed as such by enclosing the word between a pair of back ticks):
 
-The code block below was created by opening the code with "three backticks `python`" and ending the code block with "three backticks". The use of the word `python` above aides the color coding of the code block for easy reading. The code block can be created even without the word `python`
+We can create a code block like the one displayed below by opening the code content with "three backticks `python`" and ending the code block with "three backticks". The use of the word `python` above aides the color coding of the code block for easy reading. The code block can be created even without the word `python`
 
 ```python
 text = ‘This is a sentence that you would like to display.’
@@ -28,6 +28,6 @@ For creating the hyperlinks below we use the format "[text](destination location
 
 [Programs](code) : [Input Files](resources) : [Results](output)
 
-For the image inserted below we use the syntax ![text/alt text](url). The URL needs to be a location within the repository along with the file name. 'text/alt text' seems to be a description of the image which is not expected to show up on the markdown preview ***(I am unsure about this)***.
+For the image inserted below we use the syntax "! [text/alt text] (url)" (no spaces). The URL needs to be a location within the repository along with the file name. 'text/alt text' seems to be a description of the image which is not expected to show up on the markdown preview ***(I am unsure about this)***.
 
 ![Three circular icons that represent a phone, the python logo, and money.](images/fintech.png)
