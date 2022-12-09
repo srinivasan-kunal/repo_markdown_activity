@@ -1,4 +1,4 @@
-# FinTech repository (single # for Headline level 1)
+# FinTech Markdown Reference (single # for Headline level 1)
 ## Fintech repository (double # for Headline level 2)
 ### Fintech repository (triple # for Headline level 3)
 
